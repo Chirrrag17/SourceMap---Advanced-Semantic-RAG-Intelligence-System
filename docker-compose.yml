@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    env_file: .env
+    ports: ["8000:8000"]
+    volumes: ["sourcemap-data:/app/.sourcemap"]
+    depends_on: [redis]
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    volumes: ["redis-data:/data"]
+volumes:
+  sourcemap-data:
+  redis-data:
