@@ -4,7 +4,7 @@
 
 ![SourceMap](https://img.shields.io/badge/SourceMap-Semantic%20Code%20Search-FF6B35?style=for-the-badge)
 
-**Understand any codebase in seconds using AI-powered semantic search.**
+**Understand any codebase in seconds using AI-powered semantic search , https://sourcemap-self.vercel.app/.**
 
 [![Website](https://img.shields.io/badge/Website-sourcemap--self.vercel.app-FF6B35)](https://sourcemap-self.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-@chirrr2606-1DA1F2)](https://twitter.com/chirrr2606)
